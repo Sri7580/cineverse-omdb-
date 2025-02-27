@@ -1,0 +1,62 @@
+.movie-details-container{
+    display: flex;
+    height: 97vh;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.movie-poster{
+    height:400px;
+    width:300px;
+    border-radius: 15px;
+}
+
+.detailsOfMovies{
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    width: 800px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(39, 37, 37);
+}
+p{
+    font-size:7px;
+}
+.movietitle{
+    font-size: 17px;
+    width: 300px;
+}
+.ratings{
+    list-style: none;
+    color: white !important;
+
+}
+.lists{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+.movieDetailsButton{
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.addToFavouriteInMoviedetails{
+    width:140px;
+
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    font-size: 4px;
+    background-color: green !important;
+}

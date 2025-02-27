@@ -1,0 +1,103 @@
+.carouselImage{
+    width:150px;
+    height: 270px;
+}
+.title{
+    font-size: 15px;
+    width:150px;
+    color:#AAB99A;
+}
+.carouselcard{
+    width:100px;
+    height:300px;
+    display: flex!important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center !important;
+    background-color: transparent;
+}
+.seeallButton{
+    color:green !important;
+    
+
+}
+.triggerbutton{
+    background-color: transparent;
+    border: none;
+
+}
+.popup{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    width:800px;
+    background-color:rgb(49, 47, 47);
+
+}
+.closeImage{
+    background-color: transparent;
+    align-self: flex-end;
+    width:20px !important;
+    font-size: 30px;
+    border: none !important;
+    outline: none!important;
+}
+.movieMiniDetails{
+    height: 350px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.movieMiniDetailsImage{
+    height: 300px;
+    width: 220px;
+    border:2px solid green;
+    border-radius: 15px;
+}
+.miniDetailsTitle{
+    font-size: 18px!important;
+    color:white;
+}
+.miniDetailsTitleName{
+    color:rgb(150, 147, 147);
+}
+.miniDetails{
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.addToFavourite{
+    width:200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    background-color: green;
+}
+.miniDetailsButton{
+    display: flex;
+    width:380px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    border: none;
+}
+.buttonflex{
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+}
+.spanItem{
+    margin-top: 4px;
+    font-size: 14px;
+}

@@ -1,0 +1,93 @@
+.searchMoviesAndSeries{
+    border: none;
+    outline: none;
+    width:280px;
+    font-size: 15px;
+    
+}
+.inputSection{
+    display: flex;
+    width:300px;
+    background-color: #121212;
+    height: 40px;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px;
+    border-radius: 7px;
+    margin-left: 30px;
+}
+.inputAndSearch{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 8px;
+    margin-left: 17px;
+    
+}
+.movieslistcontainer{
+    height:10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 90%;
+    background-color: #121212;
+    color: white;
+    margin:5px;
+    border-radius: 10px;
+    list-style: none;
+}
+.listOfmoviess{
+    display:flex;
+    width:400px;
+    align-items: center;
+    
+}
+.loadingAndRenderPageMovie{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 110vh;
+    background-size: cover;
+    
+
+}
+.movieImg{
+    height: 50px;
+    width:50px;
+}
+.movieTitle{
+    color: white !important;
+    align-self: center;
+    width:300px;
+    margin-left: 8px;
+
+    }
+.addToFavouriteInMovie{
+    width:120px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    font-size: 6px;
+    background-color: green !important;
+}
+.moredetails{
+    width:120px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    font-size: 6px;
+}

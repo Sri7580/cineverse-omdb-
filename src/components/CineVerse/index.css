@@ -1,0 +1,23 @@
+.homePage{
+    background-color: black !important;
+   background-size: cover !important;
+
+    
+}
+.loadingAndRenderPage{
+    background-color: black;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    height: 120vh;
+    background-size: cover;
+    
+
+}
+.loaderclass{
+    display: flex;
+    height:80vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,45 @@
+.favouritecontainer{
+    height:25vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 40%;
+    background-color: #121212;
+    color: white;
+    margin:10px;
+    border-radius: 10px;
+    list-style: none;
+}
+.favouriteImg{
+    height: 100px;
+    width:100px;
+}
+.FavouriteTitle{
+    color: white !important;
+    align-self: center;
+    width:205px;
+
+}
+
+.listOfFavourites{
+    display:flex;
+    width:70%;
+    justify-content: space-between;
+}
+.favouritecontainers{
+    width: 100%;
+    flex-wrap: wrap;
+    display:flex;
+}
+.favouriteMoviefont{
+    color:rgb(150, 147, 147);
+    font-size: 12px;
+    margin: 0px;
+}
+.buttonStyle{
+    font-size: 12px;
+    background-color: transparent;
+}

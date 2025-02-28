@@ -1,1 +1,1 @@
-[CineVerse:'https://cineverse.bytexl.live/']
+[CineVerse](https://example.com](https://cineverse.bytexl.live/))

@@ -1,1 +1,1 @@
-[CineVerse](https://cineverse.bytexl.live/)
+[CineVerse](https://etcnss-3000.bytexl.dev/)
